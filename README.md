@@ -1,7 +1,5 @@
 TinDog Starting Files
 
-
-Here is the website link:
-https://sannect.github.io/TinDog-Start/
+https://sannect.github.io/TinDog-SanneT/
 
 
